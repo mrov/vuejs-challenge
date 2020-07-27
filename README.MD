@@ -12,9 +12,9 @@ Estrutura basica do projeto, optei por não usar router e nem vuex já que não 
 
 dividi em colunas e cards alem do App.vue onde é chamado esses componentes
 
-# OBS:
-Está tudo num commit só, pois eu li a parte de fazer o fork e pull request depois de ter terminado o desafio...
+## OBS:
+#### Está tudo num commit só, pois eu li a parte de fazer o fork e pull request depois de ter terminado o desafio...
 
-## Espero que goste do que foi feito, se acaso eu não fo chamado para a proxima etapa peço que me envie um feedback sobre minha participação no processo seletivo.
+### Espero que goste do que foi feito, se acaso eu não fo chamado para a proxima etapa peço que me envie um feedback sobre minha participação no processo seletivo.
 
 ### Desde já agradeço pela oportunidade.
